@@ -1,0 +1,1 @@
+# practicumYandex.py
